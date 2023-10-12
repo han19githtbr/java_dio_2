@@ -1,12 +1,10 @@
+package condicionais;
 import java.util.Scanner;
 
 public class Condicionais {
     public static void main(String [] args) {
         int a, b;
-
-        //a = 5;
-        //b = 6;
-        
+                
         System.out.println("Digite um numero:");
         Scanner sc = new Scanner(System.in);
         a = sc.nextInt();
@@ -19,11 +17,10 @@ public class Condicionais {
         String resultado = "";
         if (a==b) {
             resultado = "verdadeiro";
-            System.out.println(resultado);
         } else {
             resultado = "false";
-            System.out.println(resultado);
         }
         
+        System.out.println(resultado);
     }
 }

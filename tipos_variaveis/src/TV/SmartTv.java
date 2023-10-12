@@ -1,4 +1,4 @@
-package TV;
+package tv;
 // TV tem as características: ligada(boolean), canal(int) e volume(int)
 // TV poderá ligar e desligar e assim mudar o estado ligada
 // TV aumentará e diminuirá o volume sempre em + 1 ou -1

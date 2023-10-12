@@ -1,4 +1,4 @@
-package TV;
+package tv;
 public class Usuario {
     public static void main(String [] args) throws Exception{
         SmartTv smartTv = new SmartTv();
