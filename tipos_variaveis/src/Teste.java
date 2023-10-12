@@ -1,7 +1,9 @@
 public class Teste {
     public static void main(String[] args) throws Exception {
-        int numero1 = 1;
-        String numero2 = "2";
-        System.out.println(numero1+numero2); 
+        for(int x=1;x<=10;x++){
+            if(x % 2==0) //% operador que representa módulo de uma divisão
+                System.out.println(x);
+        }
+ 
     }
 }
