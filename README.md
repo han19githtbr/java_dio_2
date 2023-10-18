@@ -1,2 +1,2 @@
-# java_dio_2
+# java_dio_inicio
 Repositório para praticar conceitos da linguagem Java
